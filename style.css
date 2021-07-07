@@ -12,6 +12,7 @@ h1{
 }
 .flexible-container{
     display: flex;
+    margin-top: 90px;
     
 }
 .half-width{
@@ -23,6 +24,7 @@ h1{
 }
 body{
     font-family: 'Poppins', sans-serif;
+    
 }
 .order-food{
     margin-top: 20px;
@@ -59,9 +61,30 @@ body{
 }
 .exact-width{
     width: 35%;
-    margin-right: 3%;
+    margin: 1%;
     padding: 10px;
-
     box-shadow: 10px 10px 40px gray;
 }
+.eng-game{
+    width: 55%;
+    text-align: center;
+}
+.last{
+    text-align: center;
+    padding-left: 200px;
+    box-shadow: 10px 10px 60px gray;
+}
+#gameover{
+    padding-left: 30px;
+}
+
+.footer{
+    margin-top: 40px;
+    text-align: center;
+    height: 150px;
+    background-color: black;
+    color: white;
+    
+}
+
 
