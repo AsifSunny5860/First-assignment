@@ -10,8 +10,9 @@
 h1{
     font-size: 35px;
 }
-section{
+.flexible-container{
     display: flex;
+    
 }
 .half-width{
     width: 50%;
@@ -52,3 +53,15 @@ body{
     padding-left: 300px;
     padding-right: 300px;
 }
+.exact-width img{
+    width: 400px;
+    align-items: center
+}
+.exact-width{
+    width: 35%;
+    margin-right: 3%;
+    padding: 10px;
+
+    box-shadow: 10px 10px 40px gray;
+}
+
