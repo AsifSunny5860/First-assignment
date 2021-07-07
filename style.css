@@ -32,3 +32,23 @@ body{
     font-weight: 700;
     border-radius: 25px;
 }
+.contact-me{
+    margin-top: 100px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.element-position{
+    padding-right: 30px;
+}
+#header{
+    margin-top: 200px;
+}
+.third-portion{
+    margin-top: 50px;
+    text-align: center;
+}
+#paragraph{
+    width: auto;
+    padding-left: 300px;
+    padding-right: 300px;
+}
