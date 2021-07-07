@@ -65,13 +65,13 @@ body{
     padding: 10px;
     box-shadow: 10px 10px 40px gray;
 }
-.eng-game{
-    width: 55%;
+.end-game{
+    width: 40%;
     text-align: center;
 }
 .last{
     text-align: center;
-    padding-left: 200px;
+    padding-left: 60px;
     box-shadow: 10px 10px 60px gray;
 }
 #gameover{
